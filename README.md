@@ -19,7 +19,7 @@
 
 ## Были подняты две виртуальные машины на Yandex Cloud, одна из которых выполняет роль zabbix-сервера, на второй установлен zabbix-агент.
 
-Zabbix-сервер доступен по адресу http://84.252.131.252/zabbix/
+Zabbix-сервер доступен по адресу http://178.154.204.192/zabbix/
 
 ![Image 2](https://github.com/IvanPrivalov/HW15/blob/master/screenshots/2.PNG)
 
